@@ -4,9 +4,9 @@ A simple terminal game to try out Deno.
 
 ## 🎮 How to Play
 
-1. Use the arrow keys to move your character ().
-2. Collect good pumpkins (󰮿) to progress through levels.
-3. Avoid bad pumpkins (󰮣) or it's game over!
+1. Use the arrow keys to move your character.
+2. Collect good pumpkinsto progress through levels.
+3. Avoid bad pumpkins or it's game over!
 4. Complete all 5 levels to win the game.
 
 ## 🕹️ Controls
